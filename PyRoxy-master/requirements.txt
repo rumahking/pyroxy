@@ -1,0 +1,4 @@
+maxminddb
+requests
+yarl
+pysocks
